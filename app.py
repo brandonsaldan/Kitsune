@@ -23,20 +23,20 @@ def myRun(username):
 	req = requests.get(url + username)
 	if req.status_code == 200:
 		with myLock:
-			print '[Unavailable]' , username
+			print("Unavailable") , username
 		with open('Unavailable.txt', 'a') as Unavailable:
 			Unavailable.write(username + '\n')
 	elif req.status_code == 404:
 		with myLock:
-			print '[Available]' , username
+			print("Available") , username
 		with open('Available.txt', 'a') as Available:
 			Available.write(username + '\n')
 	else:
 		with myLock:
-			print '[Error]' , username
+			print("Error") , username
 		with open('Error.txt', 'a') as Error:
 			Error.write(username + '|' + req.status_code + '\n')
-	
+
 startTime = time.time()
 
 if __name__ == '__main__':
