@@ -47,7 +47,7 @@ if __name__ == '__main__':
 endTime = time.time()
 
 print("=============================")
-print 'Done!'
+print("Done!")
 print("=============================")
 print("Total Time    :") , round(endTime - startTime, 2) , 'Seconds'
 print("Total Threads :")  , myThreads
