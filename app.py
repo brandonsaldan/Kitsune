@@ -12,7 +12,7 @@ import requests
 import time
 import sys
 
-myList = open('app.txt').readlines()
+myList = open('list.txt').readlines()
 myThreads = 50
 myLock = LockPool()
 myPool = ThreadPool(myThreads)
