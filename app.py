@@ -53,5 +53,5 @@ print("Total Time    :") , round(endTime - startTime, 2) , 'Seconds'
 print("Total Threads :")  , myThreads
 print("Total Tries   :")  , len(myList)
 print("=============================")
-print("Thank you, come again!")
+print("Thank you for using Kitsune!")
 print("=============================")
