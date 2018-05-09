@@ -46,12 +46,12 @@ if __name__ == '__main__':
 
 endTime = time.time()
 
-print '============================='
+print("=============================")
 print 'Done!'
-print '============================='
-print 'Total Time    :' , round(endTime - startTime, 2) , 'Seconds'
-print 'Total Threads :' , myThreads
-print 'Total Tries   :' , len(myList)
-print '============================'
-print 'Thank you, come again!'
-print '============================'
+print("=============================")
+print("Total Time    :") , round(endTime - startTime, 2) , 'Seconds'
+print("Total Threads :")  , myThreads
+print("Total Tries   :")  , len(myList)
+print("=============================")
+print("Thank you, come again!")
+print("=============================")
