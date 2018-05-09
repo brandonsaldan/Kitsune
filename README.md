@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# InstagramChecker
-=======
 # Kitsune
 
 A Python Instagram username scraper. Originally created by 4201337, updated to run on Python 3 by me.
@@ -22,4 +19,4 @@ If done correctly, Kitsune should begin searching through the .txt you provided.
 When a user gets banned or deactivates their account, the username they had will still show up in `Available`, but will not be able to be set as a username.
 
 I am not responsible for any damage or unwanted consequences this application may cause. By using this application you assume complete responsibility.  
->>>>>>> 84215bcb48031221db939fb2293226a0b57883cf
+
