@@ -5,7 +5,7 @@ A Python Instagram username scraper. Originally created by 4201337, updated to r
 -----
 
 
-**These instructions are for Windows. macOS and Linux instructions may come in the future.**
+**These instructions are for Windows and should work on macOS as well. Linux instructions may come in the future.**
 
 1. Download this project as a .zip
 2. Unzip to a directory of your choice
