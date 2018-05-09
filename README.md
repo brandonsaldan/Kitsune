@@ -18,4 +18,4 @@ If done correctly, Kitsune should begin searching through the .txt you provided.
 
 When a user gets banned or deactivates their account, the username they had will still show up in `Available`, but will not be able to be set as a username.
 
-I am not responsible for any damage or unwanted consequences this application may cause. 
+I am not responsible for any damage or unwanted consequences this application may cause. By using this application you assume complete responsibility.  
