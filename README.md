@@ -10,9 +10,10 @@ A Python Instagram username scraper. Originally created by 4201337, updated to r
 1. Download this project as a .zip
 2. Unzip to a directory of your choice
 3. Create a .txt containing all of the words/strings you'd like to search through
-4. Install the required modules if you haven't already
-5. `cd` to the directory you installed Kitsune to
-6. run `python Kitsune.py`
+4. Rename the .txt file to `list.txt`
+5. Install the required modules if you haven't already
+6. `cd` to the directory you installed Kitsune to
+7. run `python Kitsune.py`
 
 If done correctly, Kitsune should begin searching through the .txt you provided. When it's finished, you should see two new .txt files in the `Kitsune` folder. The one called `Available` contains a list of available usernames.
 
