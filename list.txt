@@ -1,7 +1,0 @@
-Add the usernames/strings you'd like to search through in this .txt file in this fashion:
-
-ExampleUsername1
-ExampleUsername2
-ExampleUsername3
-ExampleUsername4
-ExampleUsername5
