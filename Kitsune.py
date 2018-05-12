@@ -13,7 +13,7 @@ import time
 import sys
 
 myList = open('list.txt').readlines()
-myThreads = 50
+myThreads = 25
 myLock = LockPool()
 myPool = ThreadPool(myThreads)
 
